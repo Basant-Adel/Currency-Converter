@@ -1,0 +1,48 @@
+* {
+    font-family: cursive;
+    color: #470cad;
+}
+
+.navbar {
+    box-shadow: 0 0.5rem 0.5rem #470cad;
+}
+
+.navbar a {
+    color: #470cad;
+}
+
+.img-bg {
+    width: 100%;
+    height: 70vh;
+}
+
+.title {
+    color: #ffffff;
+    margin-top: 7%;
+}
+
+.btn-primary {
+    color: #ffffff!important;
+}
+
+.btn-primary:hover {
+    color: #470cad!important;
+    background-color: #ffffff!important;
+    border-color: #0d6efd!important;
+}
+
+.content-card {
+    margin-top: -17%;
+    margin-left: 10%;
+    width: 80%;
+    height: 40vh;
+    padding: 2%;
+}
+
+.place {
+    margin-top: 2%;
+}
+
+.place1 {
+    margin-top: 9%;
+}
